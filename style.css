@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    text-shadow: 3px 0px 1px red;  
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-weight: 300px;
+    }
+h2{
+    background-color: coral;
+    color:#fbe6e6 ;
+}
+p{
+
+background-color: blue;
+color: azure;
+font-family: 'Ysabeau Infant', sans-serif;
+font-style: italic;
+font-weight: 300;
+}
